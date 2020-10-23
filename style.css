@@ -15,16 +15,20 @@
     z-index: 1;
     display: inline;
     position: absolute;
+    transform: rotate(0deg);
 }
 
 #minute {
     z-index: 2;
     display: inline;
     position: absolute;
+    transform: rotate(0deg);
+
 }
 
 #second {
     z-index: 3;
     display: inline;
     position: absolute;
+    transform: rotate(0deg);
 }
